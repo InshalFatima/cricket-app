@@ -1,0 +1,73 @@
+.main-div{
+     padding: 5px;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     margin-top: 0px;
+     color: brown;
+}
+.overall{
+     padding: 10px;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     margin-top: 0px;
+}
+.news-div{
+     width: 30%;
+     flex: 1 1 160px;
+     text-align: center;
+     padding: 15px;
+     margin:0px;
+     color: red;
+}
+.image-div{
+     width: 100%;
+}
+img{
+     width: 100%; 
+     opacity: 1; 
+}
+img:hover {
+     transition: 1s;
+     transform: scale(1.1);
+     z-index: 1;  
+}
+.news-para{
+     font-size: 15px;
+     margin: 0px;
+     text-align: left;
+     margin-bottom: 50px;
+     font-family: 'Arial Narrow Bold', sans-serif;
+     color: black;     
+}
+.news-title{
+     font-size: 18px;
+     text-align: left;
+}
+a{
+     text-decoration: none;
+}
+.news-header{
+     background-repeat: no-repeat;
+     background-position: top;
+     margin-top: 5px;
+     padding: 100px;
+     color: black;
+     background-image:url(images/news.jpg);
+     border-radius: 30px;
+     width: 500px;
+     height: 230px;
+}
+body{
+     background-image:url(images/Blur.png);
+     color:white;
+}
+hr{
+     background-color: black;
+     border: 2px solid black;
+     height: 400px;
+     width: 1000px;
+}
