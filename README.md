@@ -1,5 +1,5 @@
-# cricket-app
-Here is the link of Cricket app https://inshalfatima.github.io/cricket-app/
+# Cricket-app
+Here is the link of Cricket app:  https://inshalfatima.github.io/cricket-app/
 
 # Sources:
 
