@@ -3,7 +3,7 @@ Here is the link of Cricket app:  https://inshalfatima.github.io/cricket-app/
 
 # Sources:
 
-HTML : to represent the information
+HTML -to represent the information
 
 CSS - to style and for better UI
 
