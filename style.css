@@ -41,11 +41,12 @@ img:hover {
      text-align: left;
      margin-bottom: 50px;
      font-family: 'Arial Narrow Bold', sans-serif;
-     color: black;     
+     color: #000000;     
 }
 .news-title{
      font-size: 18px;
      text-align: left;
+     color: white;
 }
 a{
      text-decoration: none;
